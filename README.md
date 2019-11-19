@@ -51,3 +51,4 @@ plt.show()
 Obtainig:
 
 ![Time Series at Virtual Buoy](ts_vb.png)
+![Time Series at Base](ts_poste.png)
