@@ -50,4 +50,4 @@ plt.show()
 
 Obtainig:
 
-![Time Series at Virtual Buoy](plots/ts_vb.png?raw=true "Time Series at Virtual Buoy 01")
+![Time Series at Virtual Buoy](ts_vb.png)
