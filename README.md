@@ -50,4 +50,4 @@ plt.show()
 
 Obtainig:
 
-
+![Alt text](plots/ts_vb.jpg?raw=true "Time Series at Virtual Buoy 01")
